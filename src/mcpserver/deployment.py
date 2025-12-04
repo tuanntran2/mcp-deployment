@@ -3,7 +3,7 @@ from mcp.server.fastmcp import FastMCP
 
 
 # Create an MCP server
-mcp = FastMCP("Demo")
+mcp = FastMCP("Deployment")
 
 
 # Add an addition tool
